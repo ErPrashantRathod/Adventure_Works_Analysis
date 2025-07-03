@@ -3,7 +3,7 @@
 Adventure Works Power BI Project
 This is a Power BI dashboard project built using the Adventure Works dataset. It provides business insights using sales, customer, product, and return data from the Adventure Works company.
 
-<img src="Raw Data Files/AdventureWorks.png" width=1000>
+<https://github.com/ErPrashantRathod/Adventure_Works_Analysis/blob/main/1711408967531.png>
 
 ## Overview
 
