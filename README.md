@@ -92,8 +92,19 @@ The Adventure Works Sales Dashboard gives important insights into how a fictiona
 -  **Top Product:** Mountain-200 Black, 46
 
   ## Data Story
+* Adventure Works is a company that sells bicycles, clothing, and accessories in regions like Europe, North America, and the Pacific. To understand how their business is doing, they collected sales data from the past three years. This project brings all that data together and adds useful details like customer age, income, and product categories.
 
-Adventure Works is a company that sells bicycles, clothes, and accessories in places like Europe, North America, and the Pacific. To understand how the business is doing, they collected sales data from the last three years. This project puts all the data together and adds extra details like customer age, income, and product types. The dashboard helps answer simple questions like: Where are we selling the most? Which products are popular? Who are our main customers? Are we making good profit? With easy charts and numbers, the report helps the company make better decisions and grow their business.
+  -The dashboard helps answer questions such as:
+
+  -Where are we selling the most?
+
+  -Which products are the most popular?
+
+  -Who are our main customers?
+
+  -Are we earning good profit?
+
+* Using simple charts and key numbers, the report makes it easier for the company to make smart decisions and grow their business.
 
 ## Top Insights 
 
