@@ -82,7 +82,7 @@ The Adventure Works Sales Dashboard gives important insights into how a fictiona
 - Identify top-performing regions or customer types.
 - Understand return patterns and how they affect net sales.
 
-  ## Key Highlights
+## Key Highlights
 
 -  **Total Revenue:** $24.91M
 -  **Total Orders:** 25K
