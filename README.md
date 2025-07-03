@@ -68,7 +68,7 @@ The Adventure Works Sales Dashboard gives important insights into how a fictiona
 -  **Consistent Branding**: Custom color palette and branded visuals using Adventure Works' logo and theme.
 
 ## DashBorad
-![Dashboard Screenshot](DashBoard_Image.PNG)
+![Dashboard Screenshot](https://github.com/ErPrashantRathod/Adventure_Works_Analysis/blob/main/Adventure_Works_Dashbord.png)
 
 ## Key Visuals:
 -  Sales and orders by **continent** and **country**
