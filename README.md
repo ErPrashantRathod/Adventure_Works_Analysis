@@ -1,6 +1,6 @@
 # Adventure_Works_Analysis
 
-* Adventure Works Power BI Project
+Adventure Works Power BI Project
 This is a Power BI dashboard project built using the Adventure Works dataset. It provides business insights using sales, customer, product, and return data from the Adventure Works company.
 
 <img src="Raw Data Files/AdventureWorks.png" width=1000>
@@ -70,13 +70,13 @@ The Adventure Works Sales Dashboard gives important insights into how a fictiona
 ## DashBorad
 ![Dashboard Screenshot](DashBoard_Image.PNG)
 
-** Key Visuals:**
+## Key Visuals:
 -  Sales and orders by **continent** and **country**
 -  Top 10 best-selling **products**
 -  Orders by **category** (Accessories, Bikes, Clothing)
 -  Monthly **trendline** of total revenue (2020–2022)
 
-* Key Insights
+## Key Insights
 - Track which product categories drive the most revenue.
 - Analyze seasonal trends using calendar-based sales data.
 - Identify top-performing regions or customer types.
@@ -101,19 +101,19 @@ Adventure Works is a company that sells bicycles, clothes, and accessories in pl
    - The Mountain-200 bicycle series made the most money and had the most orders.
    - Products with higher profit usually had fewer returns, especially in Europe.
 
-2.  Regional Insights
+2. Regional Insights
    - Europe had the highest sales and fewer returned items compared to other regions.
    - North America sold a lot of Road-250 bikes, but also had more returns than Europe.
 
-3.  Category Breakdown
+3. Category Breakdown
    - Accessories (like helmets, bags, etc.) had the most number of orders.
    - Clothing sold the least and had the highest return rate — about 4.4%.
 
-4.  Customer Analysis
+4. Customer Analysis
    - Dividing customers by age and income helps to target the right audience.
    - Most of the big spenders were from the Middle Class and Upper Middle Class groups.
 
-5.  Time Trends
+5. Time Trends
    - Sales and revenue were higher at the beginning and end of each year, showing good times for promotions or sales events.
 
 ## Recommendations
@@ -132,4 +132,4 @@ Adventure Works is a company that sells bicycles, clothes, and accessories in pl
 - Compare sales across regions and product categories
 - Learn more about customer behavior and trends
 
-The dashboard gives managers the information they need to improve product planning, reduce returns, focus on valuable customers, and grow in the right regions. It also shows how Power BI can be used for clear and effective data analysis and reporting.
+* The dashboard gives managers the information they need to improve product planning, reduce returns, focus on valuable customers, and grow in the right regions. It also shows how Power BI can be used for clear and effective data analysis and reporting.
