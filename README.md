@@ -135,7 +135,7 @@ The Adventure Works Sales Dashboard gives important insights into how a fictiona
 -  **Target Middle and Upper Middle Class customers**: Based on consistent high-spending behavior.
 -  **Leverage Q1 & Q4 seasonality**: Launch promotional campaigns to maximize seasonal demand.
 
-  ## Conclusion (Simple Version)
+  ## Conclusion
 
 * This Power BI project shows how raw sales data can be turned into useful business insights. After combining and cleaning data from three years, the dashboard helps us:
 
